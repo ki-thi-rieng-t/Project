@@ -1,0 +1,1 @@
+g++ -std=c++17 -Iinclude tests/test_tuan.cpp src/combinatorics.cpp -o test_tuan && ./test_tuan
